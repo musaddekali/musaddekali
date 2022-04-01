@@ -1,7 +1,7 @@
 # Hay, Welcome To Musaddek Ali's Profile <img width="30" style="max-width: 100%" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"/>
 
 <!-- typing effect  -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%2336BCF7&size=26&center=true&vCenter=true&width=500&lines=1%2B+Years+of+coding+experience;self-taught+web++developer;Front-End+web+developer;React+Developer;Always+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&center=true&lines=2%2B+years+of+coding+experience;React+Developer;Front+End+Web+Developer)](https://git.io/typing-svg)
 <!-- end typing effect  -->
 
 
