@@ -1,7 +1,7 @@
 # Hay, Welcome To My Profile <img width="30" style="max-width: 100%" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"/>
 
 <!-- typing effect  -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&center=true&lines=2%2B+years+of+coding+experience;React+Developer;Front+End+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&center=true&lines=3%2B+years+of+coding+experience;React+Developer;Front+End+Web+Developer)](https://git.io/typing-svg)
 <!-- end typing effect  -->
 
 A self-motivated Developer proficiency with JavaScript-based technologys. Love to write clean and maintainable code for modern web applications. Passionate about learning and exploring new technologies. As of my hobbies, I prefer reading books, travel and exercise.
